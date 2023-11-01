@@ -5,13 +5,13 @@
 # Sentinel: Intelligent Multi Camera Face Detection, Recognition And Tracking System For Advanced Video  Surveillance
 
 # Batch Number: G17
-#### A fourth Yeear Presidency University Research Project
+#### A fourth Year Presidency University Research Project
 
 ### Authors
 
 - [@Rishi_Ragav](https://github.com/rishi-ragav)
 - [@Israr_Ahmed](https://github.com/Israr28)
-- [@Rakshith_MB]()
+- [@Rakshith_MB](https://github.com/R372717)
 - [@Mohammed Fazian Usman Sait]()
 
 ### Mentor
