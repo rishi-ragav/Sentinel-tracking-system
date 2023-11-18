@@ -1,0 +1,14 @@
+names:
+- Faizan Sait
+- Israr Ahmed
+- Rishi Ragav
+nc: 3
+roboflow:
+  license: MIT
+  project: human-ft3f5
+  url: https://universe.roboflow.com/school-h08l3/human-ft3f5/dataset/1
+  version: 1
+  workspace: school-h08l3
+test: ../test/images
+train: /content/human-1/train/images
+val: /content/human-1/valid/images
