@@ -10,5 +10,5 @@ import matplotlib.pyplot as plt
 
 
 
-model = YOLO("D:/OneDrive/OneDrive - Student Ambassadors/College notes/Sem 7/github/Sentinel-tracking-system/testing/Test 2/best.pt")
-model.predict(source="0", show=True, conf=0.75)
+model = YOLO("D:/OneDrive/OneDrive - Student Ambassadors/College notes/Sem 7/github/Sentinel-tracking-system/testing/Test 2/best_human5s.pt")
+model.predict(source="1", show=True, conf=0.5)
